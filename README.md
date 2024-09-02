@@ -57,7 +57,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Suleman Ahmadzai - your-email@example.com
+Suleman Ahmadzai - sul.ahmadzai@gmail.com
 
 Project Link: https://github.com/sulemanahmadzai/react-todo-app
 
